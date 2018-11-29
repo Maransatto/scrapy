@@ -19,11 +19,11 @@ msgstr ""
 
 #: ../../index.rst:5
 msgid "Scrapy |version| documentation"
-msgstr ""
+msgstr "Documentação do Scrapy |version|"
 
 #: ../../index.rst:7
 msgid "This documentation contains everything you need to know about Scrapy."
-msgstr ""
+msgstr "Esta documentação contém tudo que você precisa saber sobre o Scrapy."
 
 #: ../../index.rst:10
 msgid "Getting help"
