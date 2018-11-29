@@ -4,6 +4,7 @@
 _trial_temp*
 dropin.cache
 docs/build
+docs/locales/**/*.mo
 *egg-info
 .tox
 venv
