@@ -27,45 +27,47 @@ msgstr "Esta documentação contém tudo que você precisa saber sobre o Scrapy.
 
 #: ../../index.rst:10
 msgid "Getting help"
-msgstr ""
+msgstr "Ajuda"
 
 #: ../../index.rst:12
 msgid "Having trouble? We'd like to help!"
-msgstr ""
+msgstr "Está com problemas? Nós podemos ajudar!"
 
 #: ../../index.rst:14
 msgid "Try the :doc:`FAQ <faq>` -- it's got answers to some common questions."
-msgstr ""
+msgstr "Acesse o :doc:`FAQ <faq>` -- lá tem respostas para algumas questões comuns."
 
 #: ../../index.rst:15
 msgid ""
 "Looking for specific information? Try the :ref:`genindex` or "
 ":ref:`modindex`."
 msgstr ""
+"Procurando por uma informação específica? Veja o :ref:`genindex` or "
+":ref:`modindex`."
 
 #: ../../index.rst:16
 msgid "Ask or search questions in `StackOverflow using the scrapy tag`_."
-msgstr ""
+msgstr "Pergunte ou pesquise questões no `StackOverflow usando a tag scrapy`_."
 
 #: ../../index.rst:17
 msgid "Ask or search questions in the `Scrapy subreddit`_."
-msgstr ""
+msgstr "Pergunte ou pesquise questões no `subreddit do Scrapy`_."
 
 #: ../../index.rst:18
 msgid "Search for questions on the archives of the `scrapy-users mailing list`_."
-msgstr ""
+msgstr "Pesquise por questões nos arquivos de `lista de e-mails de usuários do scrapy`_."
 
 #: ../../index.rst:19
 msgid "Ask a question in the `#scrapy IRC channel`_,"
-msgstr ""
+msgstr "Pergunte no `canal IRC com a tag #scrapy`_,"
 
 #: ../../index.rst:20
 msgid "Report bugs with Scrapy in our `issue tracker`_."
-msgstr ""
+msgstr "Informe bugs do Scrapy no nosso `rastreador de problemas`_."
 
 #: ../../index.rst:30
 msgid "First steps"
-msgstr ""
+msgstr "Primeiros Passos"
 
 #: ../../index.rst:42
 msgid ":doc:`intro/overview`"
@@ -73,7 +75,7 @@ msgstr ""
 
 #: ../../index.rst:42
 msgid "Understand what Scrapy is and how it can help you."
-msgstr ""
+msgstr "Entenda o que é o Scrapy e como ele pode te ajudar."
 
 #: ../../index.rst:45
 msgid ":doc:`intro/install`"
